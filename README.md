@@ -1,5 +1,8 @@
 ## Getting Started
 
+Table View--
+![Table Image](https://raw.githubusercontent.com/Kamakshi-Aruna/NextJs-AppRouter/refs/heads/master/public/project-ui.png)
+
 First, run the development server:
 
 ```bash

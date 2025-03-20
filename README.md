@@ -12,6 +12,6 @@ Next.js App Router Migration Project
 
 
 
-![Project Image](https://raw.githubusercontent.com/Kamakshi-Aruna/NextJs-AppRouter/master/public/project-ui.png)
+![Project Image](https://raw.githubusercontent.com/Kamakshi-Aruna/NextJs-AppRouter/refs/heads/master/public/project-ui.png)
 
 

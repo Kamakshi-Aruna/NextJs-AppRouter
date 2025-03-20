@@ -11,6 +11,7 @@ Next.js App Router Migration Project
         This project includes the implementation of nested routes, dynamic routes, layouts, nested layouts, loading states, and error handling to enhance the application's structure and user experience.
 
 
-Table View--
-![Table Image](https://raw.githubusercontent.com/Kamakshi-Aruna/NextJs-AppRouter/refs/heads/master/public/project-ui.png)
+
+![Project Image](https://raw.githubusercontent.com/Kamakshi-Aruna/NextJs-AppRouter/master/public/project-ui.png)
+
 

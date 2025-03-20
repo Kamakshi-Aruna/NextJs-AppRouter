@@ -10,5 +10,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 Next.js App Router Migration Project
         This project includes the implementation of nested routes, dynamic routes, layouts, nested layouts, loading states, and error handling to enhance the application's structure and user experience.
 
-![Project UI](https://raw.githubusercontent.com/Kamakshi-Aruna/NextJs-AppRouter/master/public/project-ui.png)
+
+Table View--
+![Table Image](https://raw.githubusercontent.com/Kamakshi-Aruna/NextJs-AppRouter/refs/heads/master/public/project-ui.png)
 
